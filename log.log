@@ -1,0 +1,12 @@
+
+Warning: File log.log has been created 
+
+
+PRINT protected.txt  ;
+
+
+Warning: File protected.txt has been created, PRINTING in process
+
+EXIT;
+
+TERMINATED BY USER
